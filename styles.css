@@ -1,2 +1,14 @@
-
+/* Your CSS Code here. */
+#button-3.btn.btn-success.btn-lg {
+    background-color: green;
+    /* Other customizations */
+}
+#button-6.btn.btn-info {
+    background-color: info;
+    /* Other customizations */
+}
+#button-5.btn.btn-warning.btn-lg.btn-block {
+    background-color: warning;
+    /* Other customizations */
+}
 /* Your CSS Code here. */
